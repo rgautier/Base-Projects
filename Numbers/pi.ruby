@@ -10,13 +10,15 @@ else
 	digits = ARGV[0]
 
 	#Assumption - digits is a positive integer - add checks
-	for counter in (1..digits.to_i)
+	#for counter in (1..digits.to_i)
           thisdigit = 0
-          for i in (0..counter)
-	    thisdigit += 16.0**(-1.0*i)*(4.0/(8.0*i+1.0) - 2.0/(8.0*i+4.0) -1.0/(8.0*i+5.0) - 1.0/(8.0*i+6.0))
+          for i in (0..digits.to_i)
+	    thisdigit = 16.0**(-1.0*i)*(4.0/(8.0*i+1.0) - 2.0/(8.0*i+4.0) -1.0/(8.0*i+5.0) - 1.0/(8.0*i+6.0))
+            print thisdigit
+	    print "\n"
           end
           print thisdigit
           print "\t"	
-	end
+	#end
 end
 
