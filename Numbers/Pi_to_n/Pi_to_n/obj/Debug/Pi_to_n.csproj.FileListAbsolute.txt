@@ -1,6 +1,0 @@
-C:\Users\Richard\Documents\GitHub\Projects\Numbers\Pi_to_n\Pi_to_n\bin\Debug\Pi_to_n.exe.config
-C:\Users\Richard\Documents\GitHub\Projects\Numbers\Pi_to_n\Pi_to_n\bin\Debug\Pi_to_n.exe
-C:\Users\Richard\Documents\GitHub\Projects\Numbers\Pi_to_n\Pi_to_n\bin\Debug\Pi_to_n.pdb
-C:\Users\Richard\Documents\GitHub\Projects\Numbers\Pi_to_n\Pi_to_n\obj\Debug\Pi_to_n.csprojResolveAssemblyReference.cache
-C:\Users\Richard\Documents\GitHub\Projects\Numbers\Pi_to_n\Pi_to_n\obj\Debug\Pi_to_n.exe
-C:\Users\Richard\Documents\GitHub\Projects\Numbers\Pi_to_n\Pi_to_n\obj\Debug\Pi_to_n.pdb
