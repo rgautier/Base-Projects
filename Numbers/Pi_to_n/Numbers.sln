@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pi_to_n", "Pi_to_n\Pi_to_n.csproj", "{C2DC15D7-92FD-428C-BFB1-DA355392B1F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fibonacci", "..\Fibonacci\Fibonacci\Fibonacci.csproj", "{EE5BD098-0167-4140-84A8-43D89DCA0BB0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrimeFactorization", "..\PrimeFactorization\PrimeFactorization.csproj", "{8C0352C9-FE45-40E5-81CB-3522E61AFA16}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C2DC15D7-92FD-428C-BFB1-DA355392B1F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2DC15D7-92FD-428C-BFB1-DA355392B1F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2DC15D7-92FD-428C-BFB1-DA355392B1F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2DC15D7-92FD-428C-BFB1-DA355392B1F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EE5BD098-0167-4140-84A8-43D89DCA0BB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE5BD098-0167-4140-84A8-43D89DCA0BB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE5BD098-0167-4140-84A8-43D89DCA0BB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE5BD098-0167-4140-84A8-43D89DCA0BB0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C0352C9-FE45-40E5-81CB-3522E61AFA16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C0352C9-FE45-40E5-81CB-3522E61AFA16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C0352C9-FE45-40E5-81CB-3522E61AFA16}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C0352C9-FE45-40E5-81CB-3522E61AFA16}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

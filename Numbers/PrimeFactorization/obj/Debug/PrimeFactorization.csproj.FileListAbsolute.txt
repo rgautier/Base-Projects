@@ -1,0 +1,6 @@
+C:\Users\Richard\Documents\GitHub\Projects\Numbers\PrimeFactorization\bin\Debug\PrimeFactorization.exe.config
+C:\Users\Richard\Documents\GitHub\Projects\Numbers\PrimeFactorization\bin\Debug\PrimeFactorization.exe
+C:\Users\Richard\Documents\GitHub\Projects\Numbers\PrimeFactorization\bin\Debug\PrimeFactorization.pdb
+C:\Users\Richard\Documents\GitHub\Projects\Numbers\PrimeFactorization\obj\Debug\PrimeFactorization.csprojResolveAssemblyReference.cache
+C:\Users\Richard\Documents\GitHub\Projects\Numbers\PrimeFactorization\obj\Debug\PrimeFactorization.exe
+C:\Users\Richard\Documents\GitHub\Projects\Numbers\PrimeFactorization\obj\Debug\PrimeFactorization.pdb
